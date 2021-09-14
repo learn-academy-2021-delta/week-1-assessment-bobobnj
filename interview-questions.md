@@ -7,21 +7,35 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is git? What is the difference between git and Github?
 
+<<<<<<< HEAD
   Your answer: Git is a digital tracking device for changes in digital works. How Github is different from git is how coffee is different from Starbucks. Git is the coffee and Github being the Starbucks.
 
   Researched answer: Git is a command-line tool installed locally on terminal and uses a Linux based command where-as Github is a cloudspace maintained by Microsoft and focuses on centralized source code hosting.
+=======
+  Your answer:
+
+  Researched answer:
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
 
 
 
 2. What types of evaluations will return a Boolean value?
 
+<<<<<<< HEAD
   Your answer: Things that are true or false
 
   Researched answer: Boolean values use two types of equality operators (strict and loose) in order to provide a true or false outcome. This easily allows the coder to evaluate data when comparing values.
+=======
+  Your answer:
+
+  Researched answer:
+
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
 
 
 3. What is an index? What is the difference between index and value?
 
+<<<<<<< HEAD
   Your answer: Indexes are place holders while values are the leverage that index carries.
 
   Researched answer: Indexes are the length property of a string and the first place starts with 0
@@ -31,18 +45,43 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: Built-in methods are code within a code.
 
   Researched answer:  Built-in methods are pre-made functionalities created in to Javascript to prevent the user from reinventing the wheel. THey are practically designed for string datatypes and use additional information called arguments in order to execute the functions.
+=======
+  Your answer:
+
+  Researched answer:
+
+
+
+4. What is a built-in method?
+
+  Your answer:
+
+  Researched answer:
+
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
+<<<<<<< HEAD
   Your answer: There are drivers and navigators. The driver does all of the typing while the navigator navigates through the code directions. Each party should check the driver for errors and contribute to the creativity of the project. The roles should switch periodically.
 
   Researched answer: The Driver is hands on and keyboard sitting while following the instructions of the driver. The navigator gives the instructions to the driver.
+=======
+  Your answer:
+
+  Researched answer:
+
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
 
 
 6. What is something we did in class this week you found helpful?  
 
+<<<<<<< HEAD
   Your answer: Git status and the emphasis on it's importance became an integral tool for whatever progress I made navigating in terminal with Github.
+=======
+  Your answer:
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
 
 
 
@@ -50,6 +89,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
+<<<<<<< HEAD
 1. Iteration: executes block-code relelentlessly until a condition is met. Works especially efficient with string and array data-types.
 
 2. Higher Order Functions: Are assigned to variables like arrays and strings. They are used to set parameters for functions.
@@ -59,3 +99,14 @@ Research and define the following terms to the best of your ability.
 4. Objects: Cars, planes, books, and buildings. Javascript uses Objects.
 
 5. Classes: Functions that contain data and behavior which are considered blueprints for objects in Javascript.
+=======
+1. Iteration:
+
+2. Higher Order Functions:
+
+3. Jest:
+
+4. Objects:
+
+5. Classes:
+>>>>>>> 6788097829e21febeb3a3c62399adeb4ed80a4fc
